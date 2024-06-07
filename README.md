@@ -3,7 +3,6 @@
 
 https://cute-almanac-e54.notion.site/Day05-Spring-Mybatis-JPA-bca0e3798c074928ae6e1ba715a4a32c?pvs=4
 
-![image](https://github.com/comstudynews/demo-4myBatis-spring/assets/96456853/776bdd37-40d4-446b-9701-f374f949fe75)
 
 # Spring과 MyBatis
 
@@ -14,8 +13,8 @@ Spring과 MyBatis를 통합하여 사용하는 방법과 MyBatis 매퍼를 구�
 - STS4 IDE - Spring Starter Project
 - JDK 17
 - Maven - jar
+![image](https://github.com/comstudynews/demo-4myBatis-spring/assets/96456853/776bdd37-40d4-446b-9701-f374f949fe75)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/73d32148-7b0b-42ac-9b0b-2bfaa5903e80/36398254-34ab-4df1-98db-26ad85f6f9b7/Untitled.png)
 
 ### H2데이터 베이스에 Users 테이블 생성
 
@@ -395,10 +394,6 @@ public class Application {
 6. **RESTful 컨트롤러**: `UserController` 클래스는 RESTful 웹 서비스 엔드포인트를 제공합니다. 이 클래스는 `UserService`를 사용하여 사용자 데이터를 처리합니다.
 7. **스프링 부트 메인 클래스**: `Application` 클래스를 정의하여 스프링 부트 애플리케이션을 실행합니다.
 
-### 실행 결과
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/73d32148-7b0b-42ac-9b0b-2bfaa5903e80/6fa3b76c-6c90-456f-a689-6eb1d20799c9/Untitled.png)
 
 ### 소스코드
-
 [demo-4myBatis-spring.zip](https://prod-files-secure.s3.us-west-2.amazonaws.com/73d32148-7b0b-42ac-9b0b-2bfaa5903e80/8d5fa59d-9d55-4304-94ab-c44403381a00/demo-4myBatis-spring.zip)
